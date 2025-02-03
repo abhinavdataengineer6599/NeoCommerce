@@ -1,2 +1,3 @@
 # NeoCommerce
-Sales Data Pipeline Optimization &amp; Automation
+Sales Data-Pipeline Optimization &amp; Automation
+
