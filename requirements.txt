@@ -1,0 +1,7 @@
+airflow
+pandas
+mysql-connector-python
+python-dotenv
+pandas_gbq
+google-cloud-storage
+google-cloud-bigquery
