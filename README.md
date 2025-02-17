@@ -14,6 +14,14 @@ The project involves:
 4. **Automating workflows** using Apache Airflow.
 5. **Implementing monitoring & logging** for failure detection and alerts.
 
+
+## **Architecture**
+
+![Screenshot from 2025-02-17 12-18-20](https://github.com/user-attachments/assets/3269eb76-1de0-4777-ac5d-1a329ebfb2af)
+
+
+
+
 ## **Tech Stack**
 - **Data Sources:** Google Cloud SQL, REST API, CSV files (Google Cloud Storage)
 - **ETL Pipeline:** Python (Pandas, SQLAlchemy), Apache Airflow
