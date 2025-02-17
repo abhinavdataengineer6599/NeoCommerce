@@ -115,8 +115,8 @@ The project involves:
 ### **1. Environment Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/sales-data-pipeline.git
-cd sales-data-pipeline
+git clone <repo address>
+cd NeoCommerce/
 
 # Create and activate virtual environment
 python3 -m venv venv
@@ -142,7 +142,7 @@ airflow dags trigger sales_pipeline
 
 ### **4. BigQuery Scheduled Query Setup**
 1. Navigate to **BigQuery Console**.
-2. Create a **Scheduled Query** for transforming raw data.
+2. Create a **Scheduled Query** from SQL folder for transforming raw data.
 3. Ensure the query executes at the required frequency (e.g., hourly/daily).
 4. Verify that transformed data is correctly stored in the **fact table**.
 
