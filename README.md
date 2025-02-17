@@ -27,7 +27,7 @@ The project involves:
 - **ETL Pipeline:** Python (Pandas, SQLAlchemy), Apache Airflow
 - **Data Storage:** BigQuery
 - **Cloud Services:** Google Cloud Platform (GCP)
-- **Monitoring & Logging:** Prefect/Airflow logs, Slack alerts
+- **Monitoring & Logging:** Airflow logs
 
 ## **Source Data Details & Transformations**
 
